@@ -1,6 +1,4 @@
-package day01;
-
-public class 01_print_method {
+public class first_print_method {
 
 	public static void main(String[] args) {
 //		 TODO Auto-generated method stub
