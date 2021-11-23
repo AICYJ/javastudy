@@ -22,7 +22,7 @@ A random method to set it to evolve Randomly are required.
 Conditional statements are needed to make changes according to monster selection. 
 In conclusion, the Sanner method and the Random method and Conditional statements are needed. 
 
-### 3. Decide how to construct and flow variables and methods 
+### 3. Decide how to construct and flow variables and methods. 
 
 There are four steps 
 
