@@ -8,7 +8,7 @@ The first flow of thinking is to think and organize what variables will be used 
 The second flow of thinking is what methods are needed.
 Finally, through imagination, we decide how to construct and flow variables and methods 
 
-In fact, all developers have their own methods, so you don't have to have too stereotyped thinking.  
+In fact, all developers have their own style, so you don't have to have too stereotyped thinking.  
 Just refer to it and accept what you need.
 
 ## 1. Check the variables to be used. 
@@ -22,7 +22,7 @@ A random method to set it to evolve Randomly are required.
 Conditional statements are needed to make changes according to monster selection. 
 In conclusion, the Sanner method and the Random method and Conditional statements are needed. 
 
-### 3. Decide how to construct and flow variables and methods. 
+## 3. Decide how to construct and flow variables and methods. 
 
 There are four steps 
 
