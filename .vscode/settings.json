@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "04_01_Random_Evolution_pokemon",
         "03_Operator",
         "02_Variable_Data_type",
         "01_print_method_input_method",
-        "04_01_Random_Evolution_pokemon"
+        "04_00_Control_flow_statement"
     ]
 }
