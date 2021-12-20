@@ -3,10 +3,12 @@ Of course, it's your first time seeing the random function, but I hope you just 
 First, before looking at the correct answer code, look at the below statement and see if it is possible to develop program using java code, and if not, refer to the correct answer code and develop it. 
 
 random method{
+
 import java.util.Random;
 
 Random rm = new Random();
-evolution=rm.nextInt(4);}
+evolution=rm.nextInt(4);
+}
 
 Evolution Pokemon program.
 To systematically develop program, A systematic flow of thinking is helpful.  
