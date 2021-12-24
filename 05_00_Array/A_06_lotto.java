@@ -27,13 +27,10 @@ public class A_06_lotto {
 		if (count==6) {
 			System.out.println("Congratulations. You're in first place.");
 		}
-		else if(count==5) {
-			if (bonus==bonusUser) {
-				System.out.println("Congratulations. You're in second place.");
-			}else {
-				System.out.println("Congratulations. You're in third place.");
-			}
-			
+		else if(count==5&&bonus==bonusUser) {
+			System.out.println("Congratulations. You're in second place.");
+		}else if(count==5){
+			System.out.println("Congratulations. You're in third place.");
 		}else if(count==4) {
 			System.out.println("Congratulations. You're in 4th place.");
 		}else if(count==3) {
