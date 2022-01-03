@@ -1,0 +1,161 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch A_01_if",
+            "request": "launch",
+            "mainClass": "A_01_if",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch A_02_switch",
+            "request": "launch",
+            "mainClass": "A_02_switch",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch A_03_for",
+            "request": "launch",
+            "mainClass": "A_03_for",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch A_03_for_99step",
+            "request": "launch",
+            "mainClass": "A_03_for_99step",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch A_04_while",
+            "request": "launch",
+            "mainClass": "A_04_while",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch A_04_while_vendingmachine",
+            "request": "launch",
+            "mainClass": "A_04_while_vendingmachine",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch A_05_break_continue",
+            "request": "launch",
+            "mainClass": "A_05_break_continue",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch Random_Evolution_Pokemon",
+            "request": "launch",
+            "mainClass": "Random_Evolution_Pokemon",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch diamond",
+            "request": "launch",
+            "mainClass": "diamond",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch fifth_bit_operator",
+            "request": "launch",
+            "mainClass": "fifth_bit_operator",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch first_arithmetic_operator",
+            "request": "launch",
+            "mainClass": "first_arithmetic_operator",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch first_print_method",
+            "request": "launch",
+            "mainClass": "first_print_method",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch first_variable_strength",
+            "request": "launch",
+            "mainClass": "first_variable_strength",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch fourth_logic_operator",
+            "request": "launch",
+            "mainClass": "fourth_logic_operator",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch fourth_variable_constantization",
+            "request": "launch",
+            "mainClass": "fourth_variable_constantization",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch second_input_method",
+            "request": "launch",
+            "mainClass": "second_input_method",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch second_print_various_data_type",
+            "request": "launch",
+            "mainClass": "second_print_various_data_type",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch second_single_operator",
+            "request": "launch",
+            "mainClass": "second_single_operator",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch sixth_etc_operator",
+            "request": "launch",
+            "mainClass": "sixth_etc_operator",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch third_change_data_type",
+            "request": "launch",
+            "mainClass": "third_change_data_type",
+            "projectName": "javastudy_a61a3199"
+        },
+        {
+            "type": "java",
+            "name": "Launch third_comparison_operator",
+            "request": "launch",
+            "mainClass": "third_comparison_operator",
+            "projectName": "javastudy_a61a3199"
+        }
+    ]
+}
